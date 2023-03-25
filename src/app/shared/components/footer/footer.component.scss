@@ -1,0 +1,22 @@
+
+footer {
+  text-align: justify;
+  padding: 20px 25px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-image: linear-gradient(to top, #6f86d6 0%, #48c6ef 100%);
+
+  h4 {
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  section {
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+  }
+}
